@@ -1,0 +1,41 @@
+ .button {
+  display: inline-block;
+  padding: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: darkblue;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+
+.button:active {
+  background-color: darkblue;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+  .data{
+
+    font-size: 30px;
+    text-indent: block;
+    background-color: powderblue;
+  }
+  #map { 
+ 
+    border: solid 3px;
+    margin-bottom: 100px;
+    width: 98.5%;
+
+  
+  
+}
+body{
+  background-color: powderblue;
+  
+}
+
