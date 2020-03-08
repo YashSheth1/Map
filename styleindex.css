@@ -1,0 +1,65 @@
+.limiter {
+  width: 100%;
+  margin: 0 auto;
+}
+.header{
+	 font-family: Ubuntu-Bold;
+    font-size: 28px;
+	width: 30%;
+	margin: 100px auto 0px;
+	color: white;
+	text-align: center;
+	/*border: 2px solid black;*/
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;  
+	margin-left: 100px; 
+	background:transparent;
+	
+}
+}
+.limiter input-group{
+	margin-right: 200px;
+
+}
+.input-group label{
+	display: block;
+	text-align: left;
+	margin:3px;
+}
+.input-group input{
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	}
+	form{
+	width: 30%;
+	margin: 0px auto;
+	padding : 20px;
+	/*border:2px solid black;*/
+	background-color: white;
+	border-radius: 0px 0px 10px 10px;   
+	margin-left: 100px;
+	background:transparent;
+	background: rgba(0,0,0,0.5);
+}
+.button{
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background-color: #5f9ea0;
+	border:none;
+	border-radius: 5px; 
+	cursor: pointer;
+/*	border:1px solid black;*/
+}
+*{
+	margin-top: 0px;
+	padding:0px;
+}
+body{
+	font-size: 120%;
+	background: url('back.jpg');
+	
+	background-size: cover; 
+}
