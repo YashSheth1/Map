@@ -11,7 +11,7 @@
 <div class="header">
 	<h2>Register</h2>
 </div>
-<form method="post" action="calculate.php">
+<form method="post" action="calculate2.php">
 
 	<div class="input-group">
 			<label>Username</label>
